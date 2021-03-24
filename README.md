@@ -1,1 +1,1 @@
-# dummi
+# Dummy for https://packagist.org/
